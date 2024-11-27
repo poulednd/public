@@ -16,7 +16,9 @@ Les monstres et joueurs surpris en début de combat ne passent pas leur premier 
 
 ### Potions en combat
 
-Une action bonus peut être utilisée pour boire une potion ou donner une potion à un autre joueur. Faire boire une potion à un joueur inconscient prend une action complète.
+Une action bonus peut être utilisée pour boire une potion ou donner une potion à un autre joueur à moins d'1m50 de distance. Une action complète doit être utilisée pour lancer une potion à un joueur à plus d'1m50, ou en faire boire une à un joueur inconscient.
+
+ ou donner une potion à un autre joueur. Faire boire une potion à un joueur inconscient prend une action complète.
 
 ### Monnaie
 
@@ -34,3 +36,7 @@ Les personnages ont toujours des torches et les allument automatiquement dés qu
 
 Les armes à distance (arcs, arbalètes etc) ont des projectiles illimités.
 On considère que les archers ramassent les flèches automatiquement après un combat, et en fabriquent pour remplacer les manquantes lors des pauses, sans que les joueurs aient à le mentionner explicitement.
+
+### Langues
+
+Le système des langues utilisées dans *Les royaumes de Khaelenor* est différent de celui des règles officielles. Le fichier *langues-et-dialectes.md* présente une vision complète du système des langues. Il est conseillé de s'accorder avec le MD lors de la création d'un personnage joueur, pour déterminer quelles langues il maîtrise, en cohérence avec l'univers du jeu.
