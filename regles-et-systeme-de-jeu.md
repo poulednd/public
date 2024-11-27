@@ -1,4 +1,4 @@
-## Règles & système de jeu
+## Règles et système de jeu
 
 Le système de jeu utilise les règles de la 5ème édition (2014) de Dungeons & Dragons.
 
