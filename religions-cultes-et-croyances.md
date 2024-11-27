@@ -45,10 +45,9 @@ Organisation et ordres :
 
 - **Les Pèlerins :** sont les prêtes et prêtresses itinérants de la Foi, missionnées pour représenter le culte dans les villages et auprès du petit peuple. 
 
-- **Les Sœurs d'Elhetia :** sont un ordre religieux exclusivement féminin, en charge des hôpitaux, hospices et asiles.
+- **Les Sœurs d'Elhetia :** sont un ordre religieux exclusivement féminin, en charge des hôpitaux, des hospices et des asiles.
 
-- **Les Lames du Généreux :** est l'organisation armée chargée de traquer et d'éradiquer les adorateurs de Mordaren, les morts-vivants et les démons.
-
+- **Les Lames du Généreux :** sont l'organisation armée chargée de traquer et d'éradiquer les adorateurs de Mordaren, les morts-vivants et les démons.
 
 
 ## Religion plurielle
