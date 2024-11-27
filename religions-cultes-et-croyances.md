@@ -37,17 +37,17 @@ Le culte des Voyageurs est organisé au sein de la Foi des Elhendar, clergé pui
 
 Au fil de l'histoire, la Foi créa de nombreux ordres religieux, spécialisés dans certains domaines spirituels ou pratiques.
 
-Organisation et ordres :
+**Hiérarchie et ordres :**
 
-- **Le Premier cercle :** est la plus haute autorité de la Foi, composé des 9 archimestres de la Foi. Il est le gardien du dogme des Elhendar.
+- **Le Premier cercle** est la plus haute autorité de la Foi, composé des 9 archimestres de la Foi. Il est le gardien du dogme des Elhendar.
 
-- **Le conclave des mestres :** est l'assemblée des 100 mestres de la Foi. Il élit le Premier cercle en son sein, et le renouvelle à chaque décès d'un des archimestres.
+- **Le conclave des mestres** est l'assemblée des 100 mestres de la Foi. Il élit le Premier cercle en son sein, et le renouvelle à chaque décès d'un des archimestres.
 
-- **Les Pèlerins :** sont les prêtes et prêtresses itinérants de la Foi, missionnées pour représenter le culte dans les villages et auprès du petit peuple. 
+- **Les Pèlerins** sont les prêtes et prêtresses itinérants de la Foi, missionnées pour représenter le culte dans les villages et auprès du petit peuple. 
 
-- **Les Sœurs d'Elhetia :** sont un ordre religieux exclusivement féminin, en charge des hôpitaux, des hospices et des asiles.
+- **Les Sœurs d'Elhetia** sont un ordre religieux exclusivement féminin, en charge des hôpitaux, des hospices et des asiles.
 
-- **Les Lames du Généreux :** sont l'organisation armée chargée de traquer et d'éradiquer les adorateurs de Mordaren, les morts-vivants et les démons.
+- **Les Lames du Généreux** sont l'organisation armée chargée de traquer et d'éradiquer les adorateurs de Mordaren, les morts-vivants et les démons.
 
 
 ## Religion plurielle
