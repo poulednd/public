@@ -39,4 +39,5 @@ On considère que les archers ramassent les flèches automatiquement après un c
 
 ### Langues
 
-Le système des langues utilisées dans *Les royaumes de Khaelenor* est différent de celui des règles officielles. Le fichier *langues-et-dialectes.md* présente une vision complète du système des langues. Il est conseillé de s'accorder avec le MD lors de la création d'un personnage joueur, pour déterminer quelles langues il maîtrise, en cohérence avec l'univers du jeu.
+Le système des langues en vigueur dans *Les royaumes de Khaelenor* est différent de celui des règles officielles. Le fichier **langues-et-dialectes.md** présente une vision complète du système des langues. Il est conseillé de s'accorder avec le MD lors de la création d'un personnage joueur, pour déterminer quelles langues il maîtrise, en cohérence avec l'univers du jeu. L'important étant qu'un personnage maîtrise autant de langues qu'il le ferait en appliquant les règles officielles.
+
