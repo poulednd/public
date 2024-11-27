@@ -3,9 +3,9 @@
 
 ## Langues humaines
 
-- Briméen   Langue commune d'origine humaine, langue principale en Brimeon, Nhaedrela et à Hylbarane
+- Briméen   Langue commune d'origine humaine, langue principale en Briméon, Nhaedrela et à Hylbarane
 - Rhaenien Langue des provinces de Rhaengof
-- Fhaedrelien Langue la plus répendue en Fhaedrela (nombreux autres langues barbares)
+- Fhaedrelien Langue la plus répandue en Fhaedrela (nombreuses autres langues barbares)
 - Eshorien Langue des provinces d'Eshoria (nombreux dialectes)
 
 ## Langues naines
