@@ -4,8 +4,9 @@
 
 1. [Règles et système de jeu](https://github.com/poulednd/public/blob/master/regles-et-systeme-de-jeu.md)
 2. [Religions, cultes et croyances](https://github.com/poulednd/public/blob/master/religions-cultes-et-croyances.md)
+3. [Langues et dialectes](https://github.com/poulednd/public/blob/master/langues-et-dialectes.md)
 
 En cours d'écriture :
 
 - Royaumes, régions et villes
-- Langues et dialectes
+- Histoire de Khaelenor
