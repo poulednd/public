@@ -12,6 +12,3 @@ En cours d'écriture :
 
 - Royaumes, régions et villes
 - Histoire de Khaelenor
-
-
-https://dnd.wizards.com/fr/resources/systems-reference-document
