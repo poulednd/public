@@ -1,6 +1,6 @@
 # Les royaumes de Khaelenor
 
-![DND 5E (2014)](https://img.shields.io/badge/DND-5E%20%282014%29-red?logo=dungeonsanddragons-red?logo=dungeonsanddragons)
+[![DND 5E (2014)](https://img.shields.io/badge/DND-5E%20%282014%29-red?logo=dungeonsanddragons)](https://dnd.wizards.com/fr/resources/systems-reference-document)
 
 [![Carte des royaumes de Khaelenor](https://raw.githubusercontent.com/poulednd/public/refs/heads/master/maps/khaelenor-600x343.png)](https://github.com/poulednd/public/blob/master/maps/khaelenor-2800x1600.png)
 
@@ -12,3 +12,6 @@ En cours d'écriture :
 
 - Royaumes, régions et villes
 - Histoire de Khaelenor
+
+
+https://dnd.wizards.com/fr/resources/systems-reference-document
