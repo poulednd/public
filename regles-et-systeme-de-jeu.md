@@ -2,9 +2,7 @@
 
 Le système de jeu utilise les règles de la 5ème édition (2014) de Dungeons & Dragons.
 
-Ce chapitre présente les modifications des règles telles qu'elles sont appliquées dans *Les royaumes de Khaelenor*.
-
-La plupart des modifications présentées ici sont ont pour but de fluidifier le jeu en simplifiant certaines règles inutile d'un point de vue narratif ou redondantes.
+Ce chapitre présente les modifications des règles telles qu'elles sont appliquées dans *Les Royaumes de Khaelenor*.
 
 ### Points d'expérience et montée de niveau
 
@@ -37,5 +35,5 @@ On considère que les archers ramassent les flèches automatiquement après un c
 
 ### Langues
 
-Le système des langues en vigueur dans *Les royaumes de Khaelenor* est différent de celui des règles officielles. Le fichier **[langues-et-dialectes.md](https://github.com/poulednd/public/blob/master/langues-et-dialectes.md)** présente une vision complète du système des langues. Il est conseillé de s'accorder avec le MD lors de la création d'un personnage joueur, pour déterminer quelles langues il maîtrise, en cohérence avec l'univers du jeu. L'important étant qu'un personnage maîtrise autant de langues qu'il le ferait en appliquant les règles officielles.
+Le système des langues en vigueur dans *Les Royaumes de Khaelenor* est différent de celui des *Royaumes oubliés*. Le fichier **[langues-et-dialectes.md](https://github.com/poulednd/public/blob/master/langues-et-dialectes.md)** présente le système des langues. Il est conseillé de s'accorder avec le MD lors de la création d'un personnage joueur, pour déterminer quelles langues il maîtrise, en cohérence avec l'univers du jeu. L'important étant qu'un personnage maîtrise autant de langues qu'il le ferait en appliquant les règles officielles.
 
