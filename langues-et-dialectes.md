@@ -4,8 +4,6 @@
 
 Le tableau ci-dessous présente les langues principales, écrites ou orales, en vigueur sur le continent de Khaelenor :   
 
-` `   
-
 | Langue     | Pays ou communautés             | Remarques                             |
 |------------|---------------------------------|---------------------------------------|
 | Briméen    | Briméon, Nhaedrela et Hylbarane | Langue commune                        |
@@ -16,8 +14,6 @@ Le tableau ci-dessous présente les langues principales, écrites ou orales, en 
 | Gobelin    | Gobelins et orcs                | Différents dialectes selon les tribus |
 | Draconique | Dragons, drakéides, kobolds      |                                       |
 | Nilderien  | Gnomes, lutins, fées et créatures de la forêt | Langue orale, variable d'un peuple à un autre |                                             |                                      
-
-` `   
 
 ## Elfique et magie
 
