@@ -43,7 +43,7 @@ Au fil de l'histoire, la Foi créa de nombreux ordres religieux, spécialisés d
 
 - **Le conclave des mestres** est l'assemblée des 100 mestres de la Foi. Il élit le Premier cercle en son sein, et le renouvelle à chaque décès d'un des archimestres.
 
-- **Les Pèlerins** sont les prêtes et prêtresses itinérants de la Foi, missionnées pour représenter le culte dans les villages et auprès du petit peuple. 
+- **Les Pèlerins** sont les prêtes et prêtresses itinérants de la Foi, missionnées pour représenter le culte dans les villages et auprès des peuples de la forêt.
 
 - **Les Sœurs d'Elhetia** sont un ordre religieux exclusivement féminin, en charge des hôpitaux, des hospices et des asiles.
 
@@ -52,7 +52,7 @@ Au fil de l'histoire, la Foi créa de nombreux ordres religieux, spécialisés d
 
 ## Religion plurielle
 
-Religion principale des gnomes et du petit peuple.
+Religion principale des gnomes et des peuples de la forêt.
 
 La religion plurielle est une religion druidique polythéiste, qui vénère des divinités associées aux éléments et à la nature.
 
@@ -60,7 +60,7 @@ De tradition orale, sa pratique varie beaucoup d'une communauté à une autre et
 
 Certaines communautés ne vénèrent que quelques divinités, tandis que d'autres en reconnaissent des dizaines. En plus des divinités majeures, beaucoup de pratiquants du culte pluriel croient en l'existence d'esprits mineurs (protecteurs ou vengeurs), qui habitent un lieu particulier.
 
-Si la plupart des traditions pluralistes honorent aussi bien les Elhendar que les divinités de la nature, dans un mélange entre Druidisme et Culte des Voyageurs, d'autres considèrent les Elhendar comme des faux dieux.
+Si la plupart des traditions plurielles honorent aussi bien les Elhendar que les divinités de la nature, dans un mélange entre Druidisme et Culte des Voyageurs, d'autres considèrent les Elhendar comme des faux dieux.
 
 Le culte pluriel existe aussi chez les humains et les halfelins, bien qu'il y soit moins fréquent que le culte des Elhendar.
 
@@ -74,7 +74,7 @@ Le culte pluriel existe aussi chez les humains et les halfelins, bien qu'il y so
 - **Ranachus :** Dieu du temps, de la chance et du hasard
 - **Magarion :** Dieu de la connaissance et du savoir
 - **Dioshena :** Déesse de la magie, de la musique et des arts
-- **Hisilnos :** Dieu du commerce et de la richesse
+- **Hisilnos :** Dieu de la ruse, du commerce et de la richesse
 
 Cette liste est non-exhaustive et ne présente que les divinités les plus couramment adorées dans la religion plurielle en Khaelenor. Certaines de ces divinités sont nommées différemment selon les régions et communautés.
 
