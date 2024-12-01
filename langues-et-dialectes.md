@@ -4,7 +4,7 @@
 
 Le tableau ci-dessous présente les langues principales, écrites ou orales, en vigueur sur le continent de Khaelenor :   
 
-| Langue     | Territoire ou communautés       | Remarques                             |
+| Langue     | Territoires ou communautés      | Remarques                             |
 |------------|---------------------------------|---------------------------------------|
 | Briméen    | Briméon, Nhaedrela et Hylbarane | Langue commune                        |
 | Rhaenien   | Rhaengof                        |                                       |
