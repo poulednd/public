@@ -11,15 +11,12 @@ Le tableau ci-dessous présente les langues principales, écrites ou orales, en 
 | Briméen    | Briméon, Nhaedrela et Hylbarane | Langue commune                        |
 | Rhaenien   | Rhaengof                        |                                       |
 | Eshorien   | Eshoria                         |                                       |
-| ????????   | Fhaedrela                       | Langue commune des tribus barbares, qui ont pour la plupart leur propre dialecte |
-| Durhiméen  | Durhimard                       | Langue des nains                      |
+| Durhiméen  | Durhimard                       | Langue du royaume des nains           |
 | Elfique    | Erebarane, Hylbarane            | Langue des elfes et de la magie       |
 | Gobelin    | Gobelins et orcs                | Différents dialectes selon les tribus |
 | Draconique | Dragons, drakéides, kobolds      |                                       |
-| Naldera    | Gnomes, lutins, fées et créatures de la forêt | Langue orale, variable d'un peuple à un autre |
-| ?????????? | Démons et enfers |                                                      |                                      
+| Nilderien  | Gnomes, lutins, fées et créatures de la forêt | Langue orale, variable d'un peuple à un autre |                                             |                                      
 
-` `   
 ` `   
 
 ## Elfique et magie
